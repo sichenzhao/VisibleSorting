@@ -1,0 +1,16 @@
+======================================================================
+
+Project Name: VisibleSort
+Author: Sichen Zhao
+
+Goal: To build a Java window takes in input from user, create visible 
+squares to show that how the sorting method sort an array of numbers.
+
+	Part: 1. Start window and take input
+      	      2. Create an array and display
+	      3. Different ways to sort the array and sycronized with
+	         the display (need a control class to separate the sorting
+	 	 and the display to make it easy to migrant)
+	      4. Nothing else
+	      
+=======================================================================
